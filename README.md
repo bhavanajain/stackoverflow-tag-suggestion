@@ -6,8 +6,8 @@ We built two models to predict tags for StackOverflow posts:
 Please find a README with all the **implementation details and results** [[here](README.pdf)]
 
 ## Insights from the Supervised LDA model
-![Supervised LDA insights](img/supervised-lda.png =400x200)
+<img src="https://github.com/bhvjain/stackoverflow-tag-suggestion/blob/master/img/supervised-lda.png" width="400">
 
 ## Results
-![Results](img/results.png =300x200)
+<img src="https://github.com/bhvjain/stackoverflow-tag-suggestion/blob/master/img/results.png" width="300">
 
